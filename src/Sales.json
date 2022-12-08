@@ -1,0 +1,141 @@
+[
+  {
+    "date": "25-01-2022",
+    "retailer": "Rhodes Mart",
+    "address": "2. City. St. Zip. Naperville. 207 South Washington. Naperville. IL 60540",
+    "invoice": "DS125638",
+    "totalQty": "250",
+    "totalAmount": "5000",
+    "paid": "1500",
+    "items": [
+      {
+        "code": "001",
+        "productName": "Indomie Instant Noodles",
+        "description": "70g",
+        "qty": "5",
+        "price": "50"
+      },
+      {
+        "code": "002",
+        "productName": "Kelloggs' corn flakes",
+        "description": "400g refill",
+        "qty": "10",
+        "price": "25"
+      },
+      {
+        "code": "003",
+        "productName": "Coffee-Mate",
+        "description": "coffee",
+        "qty": "5",
+        "price": "15"
+      },
+      {
+        "code": "001",
+        "productName": "Indomie Instant Noodles",
+        "description": "70g",
+        "qty": "5",
+        "price": "50"
+      },
+      {
+        "code": "002",
+        "productName": "Kelloggs' corn flakes",
+        "description": "400g refill",
+        "qty": "10",
+        "price": "25"
+      },
+      {
+        "code": "003",
+        "productName": "Coffee-Mate",
+        "description": "coffee",
+        "qty": "5",
+        "price": "15"
+      }
+    ]
+  },
+  {
+    "date": "25-01-2022",
+    "retailer": "Rhodes Mart",
+    "address": "2. City. St. Zip. Naperville. 207 South Washington. Naperville. IL 60540",
+    "invoice": "7685638",
+    "totalQty": "250",
+    "totalAmount": "5000",
+    "paid": "1500",
+    "items": [
+      {
+        "code": "004",
+        "productName": "KitKat",
+        "description": "Chocolate",
+        "qty": "150",
+        "price": "3.5"
+      },
+      {
+        "code": "005",
+        "productName": "Milo",
+        "description": "50g",
+        "qty": "25",
+        "price": "1.5"
+      },
+      {
+        "code": "9780857197689",
+        "productName": "The Psychology of Money",
+        "description": "book",
+        "qty": "6",
+        "price": "18.99"
+      }
+    ]
+  },
+  {
+    "date": "25-01-2022",
+    "retailer": "Rhodes Mart",
+    "address": "2. City. St. Zip. Naperville. 207 South Washington. Naperville. IL 60540",
+    "invoice": "TFD546YU",
+    "totalQty": "250",
+    "totalAmount": "5000",
+    "paid": "1500"
+  },
+  {
+    "date": "25-01-2022",
+    "retailer": "Qtyu Mart",
+    "address": "8242 S LANGLEY AVE CHICAGO IL 60619-5579. USA",
+    "invoice": "459RE65",
+    "totalQty": "250",
+    "totalAmount": "5000",
+    "paid": "1500"
+  },
+  {
+    "date": "25-01-2022",
+    "retailer": "Rhodes Mart",
+    "address": "2. City. St. Zip. Naperville. 207 South Washington. Naperville. IL 60540",
+    "invoice": "H4S4S4R8",
+    "totalQty": "250",
+    "totalAmount": "5000",
+    "paid": "1500"
+  },
+  {
+    "date": "25-01-2022",
+    "retailer": "Qtyu Mart",
+    "address": "8242 S LANGLEY AVE CHICAGO IL 60619-5579. USA",
+    "invoice": "789RT95E",
+    "totalQty": "250",
+    "totalAmount": "5000",
+    "paid": "1500"
+  },
+  {
+    "date": "15-11-2022",
+    "retailer": "Qtyu Mart",
+    "address": "8242 S LANGLEY AVE CHICAGO IL 60619-5579. USA",
+    "invoice": "8787654ihj",
+    "totalQty": "250",
+    "totalAmount": "5500",
+    "paid": "2500"
+  },
+  {
+    "date": "16-11-2022",
+    "retailer": "Rhodes Mart",
+    "address": "2. City. St. Zip. Naperville. 207 South Washington. Naperville. IL 60540",
+    "invoice": "48456658",
+    "totalQty": "200",
+    "totalAmount": "4500",
+    "paid": "1500"
+  }
+]

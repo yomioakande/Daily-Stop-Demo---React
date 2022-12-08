@@ -1,0 +1,16 @@
+[
+  {
+    "retailerCode": "101",
+    "name": "Rhodes Mart",
+    "address": "2. City. St. Zip. Naperville. 207 South Washington. Naperville. IL 60540",
+    "telephone": "6574486464164",
+    "email": "rhodesmart@yahoo.com"
+  },
+  {
+    "retailerCode": "102",
+    "name": "Qtyu Mart",
+    "address": "8242 S LANGLEY AVE CHICAGO IL 60619-5579. USA",
+    "telephone": "6574486464164",
+    "email": "qtyumart@yahoo.com"
+  }
+]
