@@ -1,0 +1,50 @@
+[
+  {
+    "code": "001",
+    "productName": "Indomie Instant Noodles",
+    "description": "70g",
+    "qty": "30",
+    "costPrice": "45",
+    "price": "50"
+  },
+  {
+    "code": "002",
+    "productName": "Kelloggs' corn flakes",
+    "description": "400g refill",
+    "qty": "10",
+    "costPrice": "20",
+    "price": "25"
+  },
+  {
+    "code": "003",
+    "productName": "Coffee-Mate",
+    "description": "coffee",
+    "qty": "5",
+    "costPrice": "14",
+    "price": "15"
+  },
+  {
+    "code": "004",
+    "productName": "KitKat",
+    "description": "Chocolate",
+    "qty": "150",
+    "costPrice": "3",
+    "price": "3.5"
+  },
+  {
+    "code": "005",
+    "productName": "Milo",
+    "description": "50g",
+    "qty": "25",
+    "costPrice": "1",
+    "price": "1.5"
+  },
+  {
+    "code": "9780857197689",
+    "productName": "The Psychology of Money",
+    "description": "book",
+    "qty": "6",
+    "costPrice": "15",
+    "price": "18.99"
+  }
+]
